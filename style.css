@@ -1,0 +1,43 @@
+body{
+    background-color: #000123;
+}
+
+h2{
+    color: #ff0f7b;
+    font-family: 'Syne Mono', monospace;
+    font-size: 3REM;
+}
+
+p{
+    color:#ffffff;
+    font-family: 'Syne Mono', monospace;
+}
+
+h4{
+    color: #ffffff;
+    font-family: 'Syne Mono', monospace;
+}
+
+.colum1{
+    justify-content:center;
+    align-items: center;
+    padding-top: 20rem;
+}
+
+.colum2{
+    
+}
+
+.app{
+display: flex;
+justify-content: space-around;
+}
+
+.button1{
+    text
+    font-family: 'Syne Mono', monospace;
+}
+button{
+    font-family: 'Syne Mono', monospace;
+
+}
