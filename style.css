@@ -109,7 +109,7 @@
 
 /* Movil Horizontal */
 
-@media (min-width: 480px) {
+@media (min-width: 480px) and (orientation: landscape) {
     body{
         background-color: #000123;
         width: 100%;
