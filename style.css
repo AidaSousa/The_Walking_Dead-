@@ -448,7 +448,7 @@
 /* Escritorio */
 
 @media (min-width: 1200px) {
-    body{
+    body{ 
         background-color: #000123;
         width: 100%;
         min-width: 1200px;
